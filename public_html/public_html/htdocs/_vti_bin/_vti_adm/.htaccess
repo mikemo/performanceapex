@@ -1,0 +1,18 @@
+# -FrontPage-
+
+Options None
+
+<Limit GET POST>
+order deny,allow
+deny from all
+allow from all
+require group administrators
+</Limit>
+<Limit PUT DELETE>
+order deny,allow
+deny from all
+</Limit>
+AuthType Basic
+AuthName 374057.380753
+AuthUserFile /data/6/0/48/57/374057/user/380753/htdocs/_vti_pvt/service.pwd
+AuthGroupFile /data/6/0/48/57/374057/user/380753/htdocs/_vti_pvt/service.grp
