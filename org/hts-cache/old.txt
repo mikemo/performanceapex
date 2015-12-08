@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+22:24:26	240/240	---M-Z	301	error ('Moved%20Permanently')	text/html	date:Tue,%2008%20Dec%202015%2003:24:26%20GMT	http://performanceapex.org/robots.txt		(from )
+22:24:26	312/312	---M-Z	301	error ('Moved%20Permanently')	text/html	date:Tue,%2008%20Dec%202015%2003:24:27%20GMT	http://performanceapex.org/	C:/paorg/paorg/performanceapex.org/index.html	(from )
